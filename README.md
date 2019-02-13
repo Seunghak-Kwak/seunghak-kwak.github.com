@@ -1,2 +1,2 @@
-# seunghak-kwak.github.com
+# seunghak-kwak.github.io
 about me
